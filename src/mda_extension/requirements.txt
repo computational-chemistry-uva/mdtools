@@ -1,0 +1,6 @@
+MDAnalysis
+numpy
+pandas
+tqdm
+checkarg
+time
